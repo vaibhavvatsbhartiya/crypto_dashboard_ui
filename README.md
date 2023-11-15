@@ -22,3 +22,9 @@ to create this web app to be a one of the best for UI/UX from my end.
 **1. Enhanced Reporting and Analytics**
 **2. Mobile Applications**
 **3. Enhanced Collaboration Features**
+
+### Images / UI
+![image](https://github.com/vaibhavvatsbhartiya/crypto_dashboard_ui/assets/76244950/a73985be-020d-4c64-b0ef-894ff3087abd)
+![image](https://github.com/vaibhavvatsbhartiya/crypto_dashboard_ui/assets/76244950/2053b37b-cc1b-43dd-acdc-58643109a21c)
+![image](https://github.com/vaibhavvatsbhartiya/crypto_dashboard_ui/assets/76244950/ddad56fb-842d-45b8-9f3f-ced57ef8dd7b)
+
